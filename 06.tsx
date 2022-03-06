@@ -38,7 +38,7 @@ type TextComponent = <C extends React.ElementType = "span">(
   props: TextProps<C>
 ) => React.ReactElement | null;
 
-export const Text3: TextComponent = React.forwardRef(
+export const Text: TextComponent = React.forwardRef(
   <C extends React.ElementType = "span">(
     { as, color, children }: TextProps<C>,
     ref?: PolymorphicRef<C>
