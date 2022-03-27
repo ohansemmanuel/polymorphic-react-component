@@ -28,7 +28,7 @@ The Border component renders a styled border around whatever the children node i
 
 1. The component must accept a polymorphic `as` prop
 2. The component must render the passed in `as` element type
-3. The component should support its own props e.g., `color`, `width` and `style`. Where `color` is any valid `color` string, and `width` a number that defines the width of the border and `variant` the style of the border. See the valid CSS border styles on [W3schools](https://www.w3schools.com/css/css_border.asp)
+3. The component should support its own props e.g., `color`, `width` and `variant`. Where `color` is any valid `color` string, and `width` a number that defines the width of the border and `variant` the style of the border. See the valid CSS border styles on [W3schools](https://www.w3schools.com/css/css_border.asp)
 4. Using typescript, the component should display a type error during development if an invalid element type is passed
 5. Using typescript, the component should display a type error if wrong attributes are passed for valid element types
 6. Using typescript, the component should display a type error if wrong refs are passed to the component
