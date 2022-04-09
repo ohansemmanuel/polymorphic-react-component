@@ -15,7 +15,7 @@
 
 - [Presentation](https://excalidraw.com/#json=LbIYCYnRnOFRiM1QeRVpL,qHS8oGs8AywS2z3o4jISuw) on Excalidraw (open in incognito to not override your current drawings )
 
-- [use cases](/use-cases.pdf)
+- [use cases (PDF)](/use-cases.pdf)
 
 <br />
 <br />
