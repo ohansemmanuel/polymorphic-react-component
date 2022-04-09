@@ -11,9 +11,9 @@
 
 - [Live workshop details](https://devcher.com/class/build-strongly-typed-polymorphic-components-with-react-and-typescript-UWwzxjSxrh)
 
-- [Udemy course](https://www.udemy.com/course/build-polymorphic-components-with-react-and-typescript/?referralCode=DF6B523A0C852F2044DC)
+- Watch me teach this [course on Udemy](https://www.udemy.com/course/build-polymorphic-components-with-react-and-typescript/?referralCode=DF6B523A0C852F2044DC)
 
-- [Presentation](https://excalidraw.com/#json=LbIYCYnRnOFRiM1QeRVpL,qHS8oGs8AywS2z3o4jISuw) on Excalidraw (open in incognito to not override your current drawings )
+- [Presentation](https://excalidraw.com/#json=3mAFa-9SfI53dtQ6q5ykA,frb3BKbw-Zivudv-kixuVQ) on Excalidraw (open in incognito to not override your current drawings )
 
 - [use cases (PDF)](/use-cases.pdf)
 
