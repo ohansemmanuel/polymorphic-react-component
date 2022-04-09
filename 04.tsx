@@ -21,10 +21,16 @@ export const Text = <C extends React.ElementType = "span">({
   as,
   color,
   children,
+  ...restProps
 }: Props<C>) => {
   const Component = as || "span";
 
   const style = color ? { style: { color } } : {};
 
-  return <Component {...style}>{children}</Component>;
+  // Note restProps being passed down as well
+  return (
+    <Component {...restProps} {...style}>
+      {children}
+    </Component>
+  );
 };
