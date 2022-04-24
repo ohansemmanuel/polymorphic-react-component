@@ -19,11 +19,13 @@ type PolymorphicComponentProp<
 > = React.PropsWithChildren<Props & AsProp<C>> &
   Omit<React.ComponentPropsWithoutRef<C>, PropsToOmit<C, Props>>;
 
+type TextProps = { color?: Rainbow | "black" };
+
 export const Text = <C extends React.ElementType = "span">({
   as,
   color,
   children,
-}: PolymorphicComponentProp<C, { color?: Rainbow | "black" }>) => {
+}: PolymorphicComponentProp<C, TextProps>) => {
   const Component = as || "span";
 
   const style = color ? { style: { color } } : {};
