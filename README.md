@@ -7,6 +7,25 @@
 <br /> 
 <br />
 
+# How to read the code
+
+Read the implementation snippets from `01` to `06`
+
+01: [A basic polymorphic component implementation](/01.tsx)
+
+02: [Handling relevant component props](/02.tsx):
+
+03: [Providing a default generic type](/03.tsx):
+
+04: [Handling unique component props](/04.tsx)
+
+05: [Building a reusable polymorphic type utility](/05.tsx)
+
+06: [Handling polymorphic components with Ref](/06.tsx)
+
+<br />
+<br />
+
 # Relevant Links
 
 - [Live workshop details](https://devcher.com/class/build-strongly-typed-polymorphic-components-with-react-and-typescript-UWwzxjSxrh)
