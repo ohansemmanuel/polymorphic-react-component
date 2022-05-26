@@ -49,3 +49,16 @@ Read the implementation snippets from `01` to `06`
   - [TS Github issue](https://github.com/Microsoft/TypeScript/issues/4922)
 - [Why color appears as HTML attribute on a div?](https://stackoverflow.com/questions/67142430/why-color-appears-as-html-attribute-on-a-div)
 - React Ref: [Forwarding Refs](https://reactjs.org/docs/forwarding-refs.html)
+
+<br />
+<br />
+
+## Download the accompanying ebook and receive my 5-day typescript secrets newsletter
+
+[Download ebook here](https://www.ohansemmanuel.com/books/how-to-build-strongly-typed-polymorphic-react-components).
+
+<br />
+
+![https://i.imgur.com/U62L81u.png](https://i.imgur.com/U62L81u.png)
+
+You'll automatically receive my 5-day newsletter to get you thinking and writing Typescript like a pro 🕺
