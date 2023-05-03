@@ -1,4 +1,4 @@
-# 1. Build your own Polymorphic component
+# Build your own Polymorphic component
 
 This exercise will test your understanding of the core concepts in the class.
 
@@ -32,7 +32,3 @@ The Border component renders a styled border around whatever the children node i
 4. Using typescript, the component should display a type error during development if an invalid element type is passed
 5. Using typescript, the component should display a type error if wrong attributes are passed for valid element types
 6. Using typescript, the component should display a type error if wrong refs are passed to the component
-
-# 2. Extend the polymorphic utility type to take in a user defined name e.g., 'as' or 'component' or 'what-a-user-wants'
-
-The reusable utility built in the class assumes the user defined polymorphic prop is always `as`. Create your own version of a reusable utility that lets a user use any string they want as the polymorphic prop e.g., `as`, `component`, or `whatever`.
